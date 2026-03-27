@@ -1,2 +1,1 @@
-raesene/bwapp:latest
-area39/webug:latest
+docker.io/wordpress:php8.4-apache
